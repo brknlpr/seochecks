@@ -1,0 +1,2315 @@
+[
+    {
+        "sitename": "http://www.mersinsensin.com/",
+        "statuscode": 200,
+        "title": "Mersin - Akdenizin \u0130ncisi Olarakta Bilinen \u015eehrin Bilinmeyen T\u00fcm Yonleri",
+        "desc": "Mersin \u015fehrinin il\u00e7eleri nelerdir, hava durumu nas\u0131ld\u0131r? Akdenizin incisi olarakta an\u0131lan Mersin nas\u0131l bir \u015fehir? \u015eehirde liman var m\u0131 nereler gezilir?",
+        "imgs": {
+            "http://www.mersinsensin.com/wp-content/uploads/2019/09/mersinsensin.png": "",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/09/mersin-deniz.jpg": "mersin deniz",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/09/mersin-kizkalesi-nasil.jpg": "mersin kizkalesi nasil",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/09/mersin-sahilleri.jpg": "mersin sahilleri",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/09/mersin-hava-durumu-nasil.jpg": "mersin hava durumu nasil",
+            "http://www.mersinsensin.com/wp-content/uploads/2021/02/binance-banner.jpg": "",
+            "http://www.mersinsensin.com/wp-content/uploads/2020/03/mersin-barosu-nedir-45x45.jpg": "Mersin barosu g\u00f6revleri nelerdir \u2013 Baroya nas\u0131l kay\u0131t olunur?",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/10/goksu-deltasi-kuslari-45x45.jpg": "Mersin Silifke\u2019de Gezilecek Yerlerden Birisi Olan G\u00f6ksu Deltas\u0131 Hakk\u0131nda!",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/10/mersin-anamur-hava-durumu-nasil-45x45.jpg": "Mersin Anamur Hava Durumu Genel Olarak Y\u0131l Boyunca Nas\u0131l De\u011fi\u015fiyor?",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/10/mersin-kiz-kalesi-nerededir-45x45.jpg": "Mersin K\u0131z Kalesi tarihi nedir? K\u0131z kalesinin g\u00f6r\u00fcn\u00fcm\u00fc ve efsanesi nedir?",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/10/mersin-camliyayla-hava-durumu-ve-iklimi-45x45.png": "Mersin \u00c7aml\u0131yayla Hava Durumu ve \u0130klimi Hakk\u0131nda Neler Biliyoruz?",
+            "http://www.mersinsensin.com/wp-content/uploads/2020/02/mersin-universitesi-bolumleri-45x45.jpg": "Mersin \u00fcniversitesi b\u00f6l\u00fcmleri nelerdir \u2013 \u00dcniversiteye ula\u015f\u0131m kolay m\u0131?",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/11/mersin-arkeoloji-muzesi-nerede-45x45.jpg": "Mersin Arkeoloji M\u00fczesi Eserleri Nelerdir ? Hangi d\u00f6nemler \u00f6ne \u00e7\u0131k\u0131yor?",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/10/mersin-bozyazi-hava-durumu-tahmini-45x45.jpg": "Mersin Bozyaz\u0131 Hava Durumu ve \u0130klimi \u0130le \u0130lgili Olarak Ne S\u00f6yleyenbilir?",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/12/mersin-otelleri-nerede-45x45.jpg": "Mersin otelleri nelerdir? Fiyatlar bak\u0131m\u0131ndan mersin\u2019deki oteller nas\u0131ld\u0131r?",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/12/mersin-ezan-vakitleri-zamani-45x45.jpg": "Mersin ezan vakitleri hakk\u0131nda bilgiler \u2013 Mersin\u2019de ezan saatleri ne zaman?",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/11/mersin-muzesinde-neler-var-45x45.jpg": "Mersin Akdeniz il\u00e7esinde bulunan tarihi yerler nereler? \u0130l\u00e7enin \u00f6nemli yerleri",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/10/mersin-aydincik-hava-durumu-nasil-45x45.jpg": "Mersin Ayd\u0131nc\u0131k Hava Durumu \u0130le \u0130lgili Bilgiler Nelerdir? Ayd\u0131nc\u0131k Nas\u0131l?",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/10/mersin-refah-sehitleri-anitina-nasil-gidilir-45x45.jpg": "Refah \u015eehitleri An\u0131t\u0131 Mersin\u2019de Nerede Bulunur ve Ne Anlama Gelmektedir",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/11/anamur-ilcesi-nerede-45x45.jpg": "Mersin Anamur \u0130l\u00e7esi \u015fehrin neresinde bulunuyor? \u0130l\u00e7ede nereler gezilebilir",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/12/mersin-havaalani-buyuk-eksiklik-45x45.jpg": "Mersin havaalan\u0131 a\u00e7\u0131ld\u0131 m\u0131? Neden bir t\u00fcrl\u00fc a\u00e7\u0131lam\u0131yor, sorunlar neler?",
+            "//images.dmca.com/Badges/dmca_protected_sml_120l.png?ID=c60c022e-ad61-4050-b4ae-e353a3bfb897": "DMCA.com Protection Status"
+        },
+        "links": [
+            {
+                "link": "#",
+                "rel": "no rel",
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/",
+                "rel": "no rel",
+                "desc": "Mersin"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/is-ilanlari/",
+                "rel": "no rel",
+                "desc": "\u0130\u015f \u0130lanlar\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/adliyesi/",
+                "rel": "no rel",
+                "desc": "Adliye"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/havaalani/",
+                "rel": "no rel",
+                "desc": "Havaalan\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/valiligi/",
+                "rel": "no rel",
+                "desc": "Valilik"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/otelleri/",
+                "rel": "no rel",
+                "desc": "Oteller"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/namaz-vakitleri/",
+                "rel": "no rel",
+                "desc": "Namaz Vakitleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ezan-vakitleri/",
+                "rel": "no rel",
+                "desc": "Ezan Vakitleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/marina/",
+                "rel": "no rel",
+                "desc": "Marina"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/idman-yurdu/",
+                "rel": "no rel",
+                "desc": "\u0130dman Yurdu"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/kuyumcular/",
+                "rel": "no rel",
+                "desc": "Kuyumcular"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/adana-tren-saatleri/",
+                "rel": "no rel",
+                "desc": "Mersin adana tren saatleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/barosu/",
+                "rel": "no rel",
+                "desc": "Baro"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/forum/",
+                "rel": "no rel",
+                "desc": "Forum Mersin"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/avukatlik/",
+                "rel": "no rel",
+                "desc": "Mersin Avukatl\u0131k"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/",
+                "rel": "no rel",
+                "desc": "\u0130l\u00e7eler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/erdemli/",
+                "rel": "no rel",
+                "desc": "Erdemli"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/aydincik/",
+                "rel": "no rel",
+                "desc": "Ayd\u0131nc\u0131k"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/yenisehir/",
+                "rel": "no rel",
+                "desc": "Yeni\u015fehir"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/toroslar/",
+                "rel": "no rel",
+                "desc": "Toroslar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/tarsus/",
+                "rel": "no rel",
+                "desc": "Tarsus"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/silifke/",
+                "rel": "no rel",
+                "desc": "Silifke"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/akdeniz/",
+                "rel": "no rel",
+                "desc": "Akdeniz"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/anamur/",
+                "rel": "no rel",
+                "desc": "Anamur"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/bozyazi/",
+                "rel": "no rel",
+                "desc": "Bozyaz\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/camliyayla/",
+                "rel": "no rel",
+                "desc": "\u00c7aml\u0131yayla"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/mut/",
+                "rel": "no rel",
+                "desc": "Mut"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/mezitli/",
+                "rel": "no rel",
+                "desc": "Mezitli"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/gulnar/",
+                "rel": "no rel",
+                "desc": "G\u00fclnar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/",
+                "rel": "no rel",
+                "desc": "Gezilecek Yerler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/adam-kayalar/",
+                "rel": "no rel",
+                "desc": "Adam Kayalar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/anamur-antik-kent/",
+                "rel": "no rel",
+                "desc": "Anamur Antik Kent"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/aynaligol-magarasi/",
+                "rel": "no rel",
+                "desc": "Aynal\u0131g\u00f6l Ma\u011faras\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/cennet-cehennem/",
+                "rel": "no rel",
+                "desc": "Cennet Cehennem"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/goksu-deltasi/",
+                "rel": "no rel",
+                "desc": "G\u00f6ksu Deltas\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/kleopatra-kapisi/",
+                "rel": "no rel",
+                "desc": "Kleopatra Kap\u0131s\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/mamure-kalesi/",
+                "rel": "no rel",
+                "desc": "Mamure Kalesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/aya-tekla-kilisesi/",
+                "rel": "no rel",
+                "desc": "Aya Tekla Kilisesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/yumuktepe/",
+                "rel": "no rel",
+                "desc": "Yumuktepe"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/tarsus-ulu-cami/",
+                "rel": "no rel",
+                "desc": "Tarsus Ulu Cami"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/tarsus-selalesi/",
+                "rel": "no rel",
+                "desc": "Tarsus \u015felalesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/tarsus-muzesi/",
+                "rel": "no rel",
+                "desc": "Tarsus M\u00fczesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/tarihi-tarsus-evleri/",
+                "rel": "no rel",
+                "desc": "Tarihi Tarsus Evleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/soli-pompeiopolis-antik-kent/",
+                "rel": "no rel",
+                "desc": "Soli Pompeiopolis Antik Kent"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/refah-sehitleri-aniti/",
+                "rel": "no rel",
+                "desc": "Refah \u015eehitleri An\u0131t\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/kiz-kalesi/",
+                "rel": "no rel",
+                "desc": "K\u0131z Kalesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/ataturk-evi-muzesi/",
+                "rel": "no rel",
+                "desc": "Mersin Atat\u00fcrk Evi M\u00fczesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/arkeoloji-muzesi/",
+                "rel": "no rel",
+                "desc": "Mersin Arkeoloji M\u00fczesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/sahmeran-hamami/",
+                "rel": "no rel",
+                "desc": "\u015eahmeran Hamam\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/",
+                "rel": "no rel",
+                "desc": "Hava Durumu"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/akdeniz/",
+                "rel": "no rel",
+                "desc": "Akdeniz"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/anamur/",
+                "rel": "no rel",
+                "desc": "Anamur"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/aydincik/",
+                "rel": "no rel",
+                "desc": "Ayd\u0131nc\u0131k"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/bozyazi/",
+                "rel": "no rel",
+                "desc": "Bozyaz\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/camliyayla/",
+                "rel": "no rel",
+                "desc": "\u00c7aml\u0131yayla"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/erdemli/",
+                "rel": "no rel",
+                "desc": "Erdemli"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/gulnar/",
+                "rel": "no rel",
+                "desc": "G\u00fclnar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/mezitli/",
+                "rel": "no rel",
+                "desc": "Mezitli"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/mut/",
+                "rel": "no rel",
+                "desc": "Mut"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/silifke/",
+                "rel": "no rel",
+                "desc": "Silifke"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/tarsus/",
+                "rel": "no rel",
+                "desc": "Tarsus"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/toroslar/",
+                "rel": "no rel",
+                "desc": "Toroslar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/yenisehir/",
+                "rel": "no rel",
+                "desc": "Yeni\u015fehir"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/universiteleri/",
+                "rel": "no rel",
+                "desc": "\u00dcniversiteler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/universiteleri/mersin-universitesi/",
+                "rel": "no rel",
+                "desc": "Mersin \u00fcniversitesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hastaneleri/",
+                "rel": "no rel",
+                "desc": "Hastaneler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hastaneleri/universitesi-hastanesi/",
+                "rel": "no rel",
+                "desc": "Mersin \u00fcniversitesi hastanesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hastaneleri/sehir-hastanesi/",
+                "rel": "no rel",
+                "desc": "Mersin \u015fehir hastanesi"
+            },
+            {
+                "link": "#",
+                "rel": "no rel",
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/",
+                "rel": "no rel",
+                "desc": "\n\nMersin\n"
+            },
+            {
+                "link": "#",
+                "rel": "no rel",
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/",
+                "rel": "no rel",
+                "desc": "\n\n"
+            },
+            {
+                "link": "http://www.mersinsensin.com/",
+                "rel": "no rel",
+                "desc": "Mersin"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/is-ilanlari/",
+                "rel": "no rel",
+                "desc": "\u0130\u015f \u0130lanlar\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/adliyesi/",
+                "rel": "no rel",
+                "desc": "Adliye"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/havaalani/",
+                "rel": "no rel",
+                "desc": "Havaalan\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/valiligi/",
+                "rel": "no rel",
+                "desc": "Valilik"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/otelleri/",
+                "rel": "no rel",
+                "desc": "Oteller"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/namaz-vakitleri/",
+                "rel": "no rel",
+                "desc": "Namaz Vakitleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ezan-vakitleri/",
+                "rel": "no rel",
+                "desc": "Ezan Vakitleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/marina/",
+                "rel": "no rel",
+                "desc": "Marina"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/idman-yurdu/",
+                "rel": "no rel",
+                "desc": "\u0130dman Yurdu"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/kuyumcular/",
+                "rel": "no rel",
+                "desc": "Kuyumcular"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/adana-tren-saatleri/",
+                "rel": "no rel",
+                "desc": "Mersin adana tren saatleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/barosu/",
+                "rel": "no rel",
+                "desc": "Baro"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/forum/",
+                "rel": "no rel",
+                "desc": "Forum Mersin"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/avukatlik/",
+                "rel": "no rel",
+                "desc": "Mersin Avukatl\u0131k"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/",
+                "rel": "no rel",
+                "desc": "\u0130l\u00e7eler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/erdemli/",
+                "rel": "no rel",
+                "desc": "Erdemli"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/aydincik/",
+                "rel": "no rel",
+                "desc": "Ayd\u0131nc\u0131k"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/yenisehir/",
+                "rel": "no rel",
+                "desc": "Yeni\u015fehir"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/toroslar/",
+                "rel": "no rel",
+                "desc": "Toroslar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/tarsus/",
+                "rel": "no rel",
+                "desc": "Tarsus"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/silifke/",
+                "rel": "no rel",
+                "desc": "Silifke"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/akdeniz/",
+                "rel": "no rel",
+                "desc": "Akdeniz"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/anamur/",
+                "rel": "no rel",
+                "desc": "Anamur"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/bozyazi/",
+                "rel": "no rel",
+                "desc": "Bozyaz\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/camliyayla/",
+                "rel": "no rel",
+                "desc": "\u00c7aml\u0131yayla"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/mut/",
+                "rel": "no rel",
+                "desc": "Mut"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/mezitli/",
+                "rel": "no rel",
+                "desc": "Mezitli"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/gulnar/",
+                "rel": "no rel",
+                "desc": "G\u00fclnar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/",
+                "rel": "no rel",
+                "desc": "Gezilecek Yerler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/adam-kayalar/",
+                "rel": "no rel",
+                "desc": "Adam Kayalar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/anamur-antik-kent/",
+                "rel": "no rel",
+                "desc": "Anamur Antik Kent"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/aynaligol-magarasi/",
+                "rel": "no rel",
+                "desc": "Aynal\u0131g\u00f6l Ma\u011faras\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/cennet-cehennem/",
+                "rel": "no rel",
+                "desc": "Cennet Cehennem"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/goksu-deltasi/",
+                "rel": "no rel",
+                "desc": "G\u00f6ksu Deltas\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/kleopatra-kapisi/",
+                "rel": "no rel",
+                "desc": "Kleopatra Kap\u0131s\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/mamure-kalesi/",
+                "rel": "no rel",
+                "desc": "Mamure Kalesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/aya-tekla-kilisesi/",
+                "rel": "no rel",
+                "desc": "Aya Tekla Kilisesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/yumuktepe/",
+                "rel": "no rel",
+                "desc": "Yumuktepe"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/tarsus-ulu-cami/",
+                "rel": "no rel",
+                "desc": "Tarsus Ulu Cami"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/tarsus-selalesi/",
+                "rel": "no rel",
+                "desc": "Tarsus \u015felalesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/tarsus-muzesi/",
+                "rel": "no rel",
+                "desc": "Tarsus M\u00fczesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/tarihi-tarsus-evleri/",
+                "rel": "no rel",
+                "desc": "Tarihi Tarsus Evleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/soli-pompeiopolis-antik-kent/",
+                "rel": "no rel",
+                "desc": "Soli Pompeiopolis Antik Kent"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/refah-sehitleri-aniti/",
+                "rel": "no rel",
+                "desc": "Refah \u015eehitleri An\u0131t\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/kiz-kalesi/",
+                "rel": "no rel",
+                "desc": "K\u0131z Kalesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/ataturk-evi-muzesi/",
+                "rel": "no rel",
+                "desc": "Mersin Atat\u00fcrk Evi M\u00fczesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/arkeoloji-muzesi/",
+                "rel": "no rel",
+                "desc": "Mersin Arkeoloji M\u00fczesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/sahmeran-hamami/",
+                "rel": "no rel",
+                "desc": "\u015eahmeran Hamam\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/",
+                "rel": "no rel",
+                "desc": "Hava Durumu"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/akdeniz/",
+                "rel": "no rel",
+                "desc": "Akdeniz"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/anamur/",
+                "rel": "no rel",
+                "desc": "Anamur"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/aydincik/",
+                "rel": "no rel",
+                "desc": "Ayd\u0131nc\u0131k"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/bozyazi/",
+                "rel": "no rel",
+                "desc": "Bozyaz\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/camliyayla/",
+                "rel": "no rel",
+                "desc": "\u00c7aml\u0131yayla"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/erdemli/",
+                "rel": "no rel",
+                "desc": "Erdemli"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/gulnar/",
+                "rel": "no rel",
+                "desc": "G\u00fclnar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/mezitli/",
+                "rel": "no rel",
+                "desc": "Mezitli"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/mut/",
+                "rel": "no rel",
+                "desc": "Mut"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/silifke/",
+                "rel": "no rel",
+                "desc": "Silifke"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/tarsus/",
+                "rel": "no rel",
+                "desc": "Tarsus"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/toroslar/",
+                "rel": "no rel",
+                "desc": "Toroslar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/yenisehir/",
+                "rel": "no rel",
+                "desc": "Yeni\u015fehir"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/universiteleri/",
+                "rel": "no rel",
+                "desc": "\u00dcniversiteler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/universiteleri/mersin-universitesi/",
+                "rel": "no rel",
+                "desc": "Mersin \u00fcniversitesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hastaneleri/",
+                "rel": "no rel",
+                "desc": "Hastaneler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hastaneleri/universitesi-hastanesi/",
+                "rel": "no rel",
+                "desc": "Mersin \u00fcniversitesi hastanesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hastaneleri/sehir-hastanesi/",
+                "rel": "no rel",
+                "desc": "Mersin \u015fehir hastanesi"
+            },
+            {
+                "link": "#",
+                "rel": "no rel",
+                "desc": ""
+            },
+            {
+                "link": "#",
+                "rel": "no rel",
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/",
+                "rel": "no rel",
+                "desc": "Ana Sayfa"
+            },
+            {
+                "link": "https://www.facebook.com/sharer/sharer.php?u=http://www.mersinsensin.com/&display=popup&ref=plugin&src=share_button",
+                "rel": [
+                    "nofollow",
+                    "noopener",
+                    "noreferrer"
+                ],
+                "desc": "Facebook0"
+            },
+            {
+                "link": "https://twitter.com/share?url=http://www.mersinsensin.com/&text=Mersin%20%E2%80%93%20Akdenizin%20%C4%B0ncisi%20Olarakta%20Bilinen%20%C5%9Eehrin%20Bilinmeyen%20T%C3%BCm%20Yonleri",
+                "rel": [
+                    "nofollow",
+                    "noopener",
+                    "noreferrer"
+                ],
+                "desc": "Tweet0"
+            },
+            {
+                "link": "https://pinterest.com/pin/create/button/?url=http://www.mersinsensin.com/&media=http://www.mersinsensin.com/wp-content/uploads/2019/09/mersin-deniz.jpg&description=Mersin \u2013 Akdenizin \u0130ncisi Olarakta Bilinen \u015eehrin Bilinmeyen T\u00fcm Yonleri",
+                "rel": [
+                    "nofollow",
+                    "noopener",
+                    "noreferrer"
+                ],
+                "desc": "Pin0"
+            },
+            {
+                "link": "#t\u00fcrkiyenin-en-g\u00fczel-\u015fehirlerinden-mersin",
+                "rel": "no rel",
+                "desc": "T\u00fcrkiye\u2019nin En G\u00fczel \u015eehirlerinden: Mersin"
+            },
+            {
+                "link": "#mersinin-i\u0307l\u00e7eleri",
+                "rel": "no rel",
+                "desc": "Mersin\u2019in \u0130l\u00e7eleri"
+            },
+            {
+                "link": "#akdenizin-i\u0307ncisi-mersin-i\u0307l\u00e7eleri-g\u00fczel-mi",
+                "rel": "no rel",
+                "desc": "Akdenizin \u0130ncisi Mersin \u0130l\u00e7eleri G\u00fczel Mi?"
+            },
+            {
+                "link": "#mersindeki-gezilecek-yerler",
+                "rel": "no rel",
+                "desc": "Mersin\u2019deki Gezilecek Yerler"
+            },
+            {
+                "link": "#soli-pompeiopolis-antik-kenti",
+                "rel": "no rel",
+                "desc": "Soli Pompeiopolis Antik Kenti"
+            },
+            {
+                "link": "#yumuktepe-h\u00f6y\u00fc\u011f\u00fc",
+                "rel": "no rel",
+                "desc": "Yumuktepe H\u00f6y\u00fc\u011f\u00fc"
+            },
+            {
+                "link": "#\u015fahmeran-hamam\u0131",
+                "rel": "no rel",
+                "desc": "\u015eahmeran Hamam\u0131"
+            },
+            {
+                "link": "#tarsus-m\u00fczesi",
+                "rel": "no rel",
+                "desc": "Tarsus M\u00fczesi"
+            },
+            {
+                "link": "#kleopatra-kap\u0131s\u0131",
+                "rel": "no rel",
+                "desc": "Kleopatra Kap\u0131s\u0131"
+            },
+            {
+                "link": "#mersin-arkeoloji-m\u00fczesi",
+                "rel": "no rel",
+                "desc": "Mersin Arkeoloji M\u00fczesi"
+            },
+            {
+                "link": "#tarsus-\u015felalesi",
+                "rel": "no rel",
+                "desc": "Tarsus \u015eelalesi"
+            },
+            {
+                "link": "#tarsus-ulu-camii",
+                "rel": "no rel",
+                "desc": "Tarsus Ulu Camii"
+            },
+            {
+                "link": "#tarihi-tarsus-evleri",
+                "rel": "no rel",
+                "desc": "Tarihi Tarsus Evleri"
+            },
+            {
+                "link": "#adam-kayalar",
+                "rel": "no rel",
+                "desc": "Adam Kayalar"
+            },
+            {
+                "link": "#k\u0131z-kalesi",
+                "rel": "no rel",
+                "desc": "K\u0131z Kalesi"
+            },
+            {
+                "link": "#cennet-cehennem-obruklar\u0131",
+                "rel": "no rel",
+                "desc": "Cennet \u2013 Cehennem Obruklar\u0131"
+            },
+            {
+                "link": "#aya-tekla-kilisesi",
+                "rel": "no rel",
+                "desc": "Aya Tekla Kilisesi"
+            },
+            {
+                "link": "#aynal\u0131g\u00f6l-ma\u011faras\u0131",
+                "rel": "no rel",
+                "desc": "Aynal\u0131g\u00f6l Ma\u011faras\u0131"
+            },
+            {
+                "link": "#anemurium-antik-kenti",
+                "rel": "no rel",
+                "desc": "Anemurium Antik Kenti"
+            },
+            {
+                "link": "#g\u00f6ksu-deltas\u0131",
+                "rel": "no rel",
+                "desc": "G\u00f6ksu Deltas\u0131"
+            },
+            {
+                "link": "#mamure-kalesi",
+                "rel": "no rel",
+                "desc": "Mamure Kalesi"
+            },
+            {
+                "link": "#refah-\u015fehitleri-an\u0131t\u0131",
+                "rel": "no rel",
+                "desc": "Refah \u015eehitleri An\u0131t\u0131"
+            },
+            {
+                "link": "#mersin-atat\u00fcrk-evi-m\u00fczesi",
+                "rel": "no rel",
+                "desc": "Mersin Atat\u00fcrk Evi M\u00fczesi"
+            },
+            {
+                "link": "#mersin-mutfa\u011f\u0131",
+                "rel": "no rel",
+                "desc": "Mersin Mutfa\u011f\u0131"
+            },
+            {
+                "link": "#mersinin-i\u0307klimi",
+                "rel": "no rel",
+                "desc": "Mersin\u2019in \u0130klimi"
+            },
+            {
+                "link": "#mersindeki-tatil-yerleri",
+                "rel": "no rel",
+                "desc": "Mersin\u2019deki Tatil Yerleri"
+            },
+            {
+                "link": "#karg\u0131p\u0131nar\u0131",
+                "rel": "no rel",
+                "desc": "Karg\u0131p\u0131nar\u0131"
+            },
+            {
+                "link": "#kumkuyu",
+                "rel": "no rel",
+                "desc": "Kumkuyu"
+            },
+            {
+                "link": "#k\u0131z-kalesi",
+                "rel": "no rel",
+                "desc": "K\u0131z Kalesi"
+            },
+            {
+                "link": "#silifke",
+                "rel": "no rel",
+                "desc": "Silifke"
+            },
+            {
+                "link": "#susano\u011flu",
+                "rel": "no rel",
+                "desc": "Susano\u011flu"
+            },
+            {
+                "link": "#aya\u015f",
+                "rel": "no rel",
+                "desc": "Aya\u015f"
+            },
+            {
+                "link": "#narl\u0131kuyu",
+                "rel": "no rel",
+                "desc": "Narl\u0131kuyu"
+            },
+            {
+                "link": "#mersin-deniz-durumu",
+                "rel": "no rel",
+                "desc": "Mersin Deniz Durumu"
+            },
+            {
+                "link": "#mersin-gidilecek-yerler-nereler",
+                "rel": "no rel",
+                "desc": "Mersin Gidilecek Yerler Nereler?"
+            },
+            {
+                "link": "#mersin-b\u00fcy\u00fck\u015fehir-belediyesi-nereleri-\u00f6neriyor",
+                "rel": "no rel",
+                "desc": "Mersin B\u00fcy\u00fck\u015fehir Belediyesi Nereleri \u00d6neriyor?"
+            },
+            {
+                "link": "#mersinin-n\u00fcfusu",
+                "rel": "no rel",
+                "desc": "Mersin\u2019in N\u00fcfusu"
+            },
+            {
+                "link": "#mersin-hava-durumu",
+                "rel": "no rel",
+                "desc": "Mersin Hava Durumu"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/",
+                "rel": "no rel",
+                "desc": "Mersin il\u00e7eleri"
+            },
+            {
+                "link": "https://cahil.co/perslerin-tarihi/",
+                "rel": "no rel",
+                "desc": "Pers"
+            },
+            {
+                "link": "https://www.ancient.eu/Roman_Empire/",
+                "rel": "no rel",
+                "desc": "Roma"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/",
+                "rel": "no rel",
+                "desc": "Mersin gezilecek yerler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/",
+                "rel": "no rel",
+                "desc": "Mersin hava durumu"
+            },
+            {
+                "link": "https://www.facebook.com/sharer/sharer.php?u=http://www.mersinsensin.com/&display=popup&ref=plugin&src=share_button",
+                "rel": [
+                    "nofollow",
+                    "noopener",
+                    "noreferrer"
+                ],
+                "desc": "Facebook0"
+            },
+            {
+                "link": "https://twitter.com/share?url=http://www.mersinsensin.com/&text=Mersin%20%E2%80%93%20Akdenizin%20%C4%B0ncisi%20Olarakta%20Bilinen%20%C5%9Eehrin%20Bilinmeyen%20T%C3%BCm%20Yonleri",
+                "rel": [
+                    "nofollow",
+                    "noopener",
+                    "noreferrer"
+                ],
+                "desc": "Tweet0"
+            },
+            {
+                "link": "https://pinterest.com/pin/create/button/?url=http://www.mersinsensin.com/&media=http://www.mersinsensin.com/wp-content/uploads/2019/09/mersin-deniz.jpg&description=Mersin \u2013 Akdenizin \u0130ncisi Olarakta Bilinen \u015eehrin Bilinmeyen T\u00fcm Yonleri",
+                "rel": [
+                    "nofollow",
+                    "noopener",
+                    "noreferrer"
+                ],
+                "desc": "Pin0"
+            },
+            {
+                "link": "https://www.binance.com/en/register?ref=GZJDQQQ6",
+                "rel": "no rel",
+                "desc": ""
+            },
+            {
+                "link": "https://facebook.com/mersinsensincom",
+                "rel": "no rel",
+                "desc": "\nfacebook\n"
+            },
+            {
+                "link": "https://twitter.com/mersinsensincom",
+                "rel": "no rel",
+                "desc": "\ntwitter\n"
+            },
+            {
+                "link": "https://instagram.com/mersinsensincom",
+                "rel": "no rel",
+                "desc": "\ninstagram\n"
+            },
+            {
+                "link": "https://tr.pinterest.com/mersinsensin",
+                "rel": "no rel",
+                "desc": "\npinterest\n"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/barosu/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/barosu/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin barosu g\u00f6revleri nelerdir \u2013 Baroya nas\u0131l kay\u0131t olunur?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/goksu-deltasi/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/goksu-deltasi/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin Silifke\u2019de Gezilecek Yerlerden Birisi Olan G\u00f6ksu Deltas\u0131 Hakk\u0131nda!"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/anamur/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/anamur/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin Anamur Hava Durumu Genel Olarak Y\u0131l Boyunca Nas\u0131l De\u011fi\u015fiyor?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/kiz-kalesi/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/kiz-kalesi/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin K\u0131z Kalesi tarihi nedir? K\u0131z kalesinin g\u00f6r\u00fcn\u00fcm\u00fc ve efsanesi nedir?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/camliyayla/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/camliyayla/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin \u00c7aml\u0131yayla Hava Durumu ve \u0130klimi Hakk\u0131nda Neler Biliyoruz?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/universiteleri/mersin-universitesi/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/universiteleri/mersin-universitesi/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin \u00fcniversitesi b\u00f6l\u00fcmleri nelerdir \u2013 \u00dcniversiteye ula\u015f\u0131m kolay m\u0131?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/arkeoloji-muzesi/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/arkeoloji-muzesi/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin Arkeoloji M\u00fczesi Eserleri Nelerdir ? Hangi d\u00f6nemler \u00f6ne \u00e7\u0131k\u0131yor?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/bozyazi/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/bozyazi/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin Bozyaz\u0131 Hava Durumu ve \u0130klimi \u0130le \u0130lgili Olarak Ne S\u00f6yleyenbilir?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/otelleri/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/otelleri/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin otelleri nelerdir? Fiyatlar bak\u0131m\u0131ndan mersin\u2019deki oteller nas\u0131ld\u0131r?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ezan-vakitleri/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ezan-vakitleri/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin ezan vakitleri hakk\u0131nda bilgiler \u2013 Mersin\u2019de ezan saatleri ne zaman?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/akdeniz/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/akdeniz/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin Akdeniz il\u00e7esinde bulunan tarihi yerler nereler? \u0130l\u00e7enin \u00f6nemli yerleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/aydincik/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/aydincik/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin Ayd\u0131nc\u0131k Hava Durumu \u0130le \u0130lgili Bilgiler Nelerdir? Ayd\u0131nc\u0131k Nas\u0131l?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/refah-sehitleri-aniti/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/refah-sehitleri-aniti/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Refah \u015eehitleri An\u0131t\u0131 Mersin\u2019de Nerede Bulunur ve Ne Anlama Gelmektedir"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/anamur/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/anamur/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin Anamur \u0130l\u00e7esi \u015fehrin neresinde bulunuyor? \u0130l\u00e7ede nereler gezilebilir"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/havaalani/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/havaalani/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin havaalan\u0131 a\u00e7\u0131ld\u0131 m\u0131? Neden bir t\u00fcrl\u00fc a\u00e7\u0131lam\u0131yor, sorunlar neler?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/iletisim/",
+                "rel": "no rel",
+                "desc": "\u0130leti\u015fim"
+            },
+            {
+                "link": "//www.dmca.com/Protection/Status.aspx?id=c60c022e-ad61-4050-b4ae-e353a3bfb897",
+                "rel": "no rel",
+                "desc": " "
+            }
+        ]
+    },
+    {
+        "sitename": "http://www.mersinsensin.com/iletisim/",
+        "statuscode": 200,
+        "title": "\u0130leti\u015fim - Mersin",
+        "desc": "",
+        "imgs": {
+            "http://www.mersinsensin.com/wp-content/uploads/2019/09/mersinsensin.png": "",
+            "http://www.mersinsensin.com/wp-content/uploads/2021/02/binance-banner.jpg": "",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/10/soli-pompeiopolis-antik-kent-nerede-45x45.jpg": "Soli Pompeiopolis Antik Kent Kentin En G\u00fczel Simgelerinden Birisidir!",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/10/mersin-toroslar-hava-durumu-bilgisi-45x45.jpg": "Mersin Toroslar Hava Durumu ve Hava S\u0131cakl\u0131\u011f\u0131 Nas\u0131l De\u011fi\u015fim G\u00f6steriyor?",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/11/mersin-ataturk-evi-muzesi-45x45.jpg": "Mersin Atat\u00fcrk Evi M\u00fczesi Hakk\u0131nda Bilinmeyenler ve T\u00fcm Y\u00f6nleri",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/11/camliyayla-kalesi-45x45.jpg": "Mersin \u00c7aml\u0131yayla tam bir do\u011fa harikas\u0131! Peki bu g\u00fczel il\u00e7ede ne yapmal\u0131?",
+            "http://www.mersinsensin.com/wp-content/uploads/2020/03/mersin-forum-avm-45x45.jpg": "Mersin forum avm ma\u011fazalar\u0131 nelerdir \u2013 Foruma nas\u0131l gidilir?",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/11/mezitli-soli-sahil-45x45.jpg": "Mersin Mezitli \u015fehrin merkezine yak\u0131n ve tarihi olan bir il\u00e7e olarak bilinir!",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/11/mersin-muzesinde-neler-var-45x45.jpg": "Mersin Akdeniz il\u00e7esinde bulunan tarihi yerler nereler? \u0130l\u00e7enin \u00f6nemli yerleri",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/10/mersin-yenisehir-hava-durumu-ve-sicakligi-45x45.jpg": "Mersin Yeni\u015fehir Hava Durumu \u00d6zellikleri Nelerdir? Yeni\u015fehir Nas\u0131l Bir \u0130l\u00e7e",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/12/mersin-valiligi-nerede-45x45.jpg": "Mersin valili\u011fi nerededir ve nas\u0131l gidilir? Mersin valisi kimdir?",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/12/mersin-otelleri-nerede-45x45.jpg": "Mersin otelleri nelerdir? Fiyatlar bak\u0131m\u0131ndan mersin\u2019deki oteller nas\u0131ld\u0131r?",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/10/mersin-gulnar-hava-durumu-acik-mi-45x45.jpg": "Mersin G\u00fclnar Hava Durumu ve Toprak \u00d6zellikleri Nelerdir? G\u00fclnar Nerede",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/10/mersin-camliyayla-hava-durumu-ve-iklimi-45x45.png": "Mersin \u00c7aml\u0131yayla Hava Durumu ve \u0130klimi Hakk\u0131nda Neler Biliyoruz?",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/10/mersin-bozyazi-hava-durumu-tahmini-45x45.jpg": "Mersin Bozyaz\u0131 Hava Durumu ve \u0130klimi \u0130le \u0130lgili Olarak Ne S\u00f6yleyenbilir?",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/10/cennet-cehennem-mersin-silifke-45x45.jpg": "Cennet Cehennem Mersin\u2019in En Sevilen G\u00f6r\u00fclmesi Gereken Yerlerinden!",
+            "http://www.mersinsensin.com/wp-content/uploads/2019/10/mersin-silifke-hava-durumu-bilgisi-45x45.jpg": "Mersin Silifke Hava Durumu ve \u0130klimi Y\u0131l Boyu Nas\u0131l De\u011fi\u015fiklik G\u00f6steriyor?",
+            "//images.dmca.com/Badges/dmca_protected_sml_120l.png?ID=c60c022e-ad61-4050-b4ae-e353a3bfb897": "DMCA.com Protection Status"
+        },
+        "links": [
+            {
+                "link": "#",
+                "rel": "no rel",
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/",
+                "rel": "no rel",
+                "desc": "Mersin"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/is-ilanlari/",
+                "rel": "no rel",
+                "desc": "\u0130\u015f \u0130lanlar\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/adliyesi/",
+                "rel": "no rel",
+                "desc": "Adliye"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/havaalani/",
+                "rel": "no rel",
+                "desc": "Havaalan\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/valiligi/",
+                "rel": "no rel",
+                "desc": "Valilik"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/otelleri/",
+                "rel": "no rel",
+                "desc": "Oteller"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/namaz-vakitleri/",
+                "rel": "no rel",
+                "desc": "Namaz Vakitleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ezan-vakitleri/",
+                "rel": "no rel",
+                "desc": "Ezan Vakitleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/marina/",
+                "rel": "no rel",
+                "desc": "Marina"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/idman-yurdu/",
+                "rel": "no rel",
+                "desc": "\u0130dman Yurdu"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/kuyumcular/",
+                "rel": "no rel",
+                "desc": "Kuyumcular"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/adana-tren-saatleri/",
+                "rel": "no rel",
+                "desc": "Mersin adana tren saatleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/barosu/",
+                "rel": "no rel",
+                "desc": "Baro"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/forum/",
+                "rel": "no rel",
+                "desc": "Forum Mersin"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/avukatlik/",
+                "rel": "no rel",
+                "desc": "Mersin Avukatl\u0131k"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/",
+                "rel": "no rel",
+                "desc": "\u0130l\u00e7eler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/erdemli/",
+                "rel": "no rel",
+                "desc": "Erdemli"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/aydincik/",
+                "rel": "no rel",
+                "desc": "Ayd\u0131nc\u0131k"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/yenisehir/",
+                "rel": "no rel",
+                "desc": "Yeni\u015fehir"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/toroslar/",
+                "rel": "no rel",
+                "desc": "Toroslar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/tarsus/",
+                "rel": "no rel",
+                "desc": "Tarsus"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/silifke/",
+                "rel": "no rel",
+                "desc": "Silifke"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/akdeniz/",
+                "rel": "no rel",
+                "desc": "Akdeniz"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/anamur/",
+                "rel": "no rel",
+                "desc": "Anamur"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/bozyazi/",
+                "rel": "no rel",
+                "desc": "Bozyaz\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/camliyayla/",
+                "rel": "no rel",
+                "desc": "\u00c7aml\u0131yayla"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/mut/",
+                "rel": "no rel",
+                "desc": "Mut"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/mezitli/",
+                "rel": "no rel",
+                "desc": "Mezitli"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/gulnar/",
+                "rel": "no rel",
+                "desc": "G\u00fclnar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/",
+                "rel": "no rel",
+                "desc": "Gezilecek Yerler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/adam-kayalar/",
+                "rel": "no rel",
+                "desc": "Adam Kayalar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/anamur-antik-kent/",
+                "rel": "no rel",
+                "desc": "Anamur Antik Kent"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/aynaligol-magarasi/",
+                "rel": "no rel",
+                "desc": "Aynal\u0131g\u00f6l Ma\u011faras\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/cennet-cehennem/",
+                "rel": "no rel",
+                "desc": "Cennet Cehennem"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/goksu-deltasi/",
+                "rel": "no rel",
+                "desc": "G\u00f6ksu Deltas\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/kleopatra-kapisi/",
+                "rel": "no rel",
+                "desc": "Kleopatra Kap\u0131s\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/mamure-kalesi/",
+                "rel": "no rel",
+                "desc": "Mamure Kalesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/aya-tekla-kilisesi/",
+                "rel": "no rel",
+                "desc": "Aya Tekla Kilisesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/yumuktepe/",
+                "rel": "no rel",
+                "desc": "Yumuktepe"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/tarsus-ulu-cami/",
+                "rel": "no rel",
+                "desc": "Tarsus Ulu Cami"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/tarsus-selalesi/",
+                "rel": "no rel",
+                "desc": "Tarsus \u015felalesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/tarsus-muzesi/",
+                "rel": "no rel",
+                "desc": "Tarsus M\u00fczesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/tarihi-tarsus-evleri/",
+                "rel": "no rel",
+                "desc": "Tarihi Tarsus Evleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/soli-pompeiopolis-antik-kent/",
+                "rel": "no rel",
+                "desc": "Soli Pompeiopolis Antik Kent"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/refah-sehitleri-aniti/",
+                "rel": "no rel",
+                "desc": "Refah \u015eehitleri An\u0131t\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/kiz-kalesi/",
+                "rel": "no rel",
+                "desc": "K\u0131z Kalesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/ataturk-evi-muzesi/",
+                "rel": "no rel",
+                "desc": "Mersin Atat\u00fcrk Evi M\u00fczesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/arkeoloji-muzesi/",
+                "rel": "no rel",
+                "desc": "Mersin Arkeoloji M\u00fczesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/sahmeran-hamami/",
+                "rel": "no rel",
+                "desc": "\u015eahmeran Hamam\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/",
+                "rel": "no rel",
+                "desc": "Hava Durumu"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/akdeniz/",
+                "rel": "no rel",
+                "desc": "Akdeniz"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/anamur/",
+                "rel": "no rel",
+                "desc": "Anamur"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/aydincik/",
+                "rel": "no rel",
+                "desc": "Ayd\u0131nc\u0131k"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/bozyazi/",
+                "rel": "no rel",
+                "desc": "Bozyaz\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/camliyayla/",
+                "rel": "no rel",
+                "desc": "\u00c7aml\u0131yayla"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/erdemli/",
+                "rel": "no rel",
+                "desc": "Erdemli"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/gulnar/",
+                "rel": "no rel",
+                "desc": "G\u00fclnar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/mezitli/",
+                "rel": "no rel",
+                "desc": "Mezitli"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/mut/",
+                "rel": "no rel",
+                "desc": "Mut"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/silifke/",
+                "rel": "no rel",
+                "desc": "Silifke"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/tarsus/",
+                "rel": "no rel",
+                "desc": "Tarsus"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/toroslar/",
+                "rel": "no rel",
+                "desc": "Toroslar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/yenisehir/",
+                "rel": "no rel",
+                "desc": "Yeni\u015fehir"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/universiteleri/",
+                "rel": "no rel",
+                "desc": "\u00dcniversiteler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/universiteleri/mersin-universitesi/",
+                "rel": "no rel",
+                "desc": "Mersin \u00fcniversitesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hastaneleri/",
+                "rel": "no rel",
+                "desc": "Hastaneler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hastaneleri/universitesi-hastanesi/",
+                "rel": "no rel",
+                "desc": "Mersin \u00fcniversitesi hastanesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hastaneleri/sehir-hastanesi/",
+                "rel": "no rel",
+                "desc": "Mersin \u015fehir hastanesi"
+            },
+            {
+                "link": "#",
+                "rel": "no rel",
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/",
+                "rel": "no rel",
+                "desc": "\n\nMersin\n"
+            },
+            {
+                "link": "#",
+                "rel": "no rel",
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/",
+                "rel": "no rel",
+                "desc": "\n\n"
+            },
+            {
+                "link": "http://www.mersinsensin.com/",
+                "rel": "no rel",
+                "desc": "Mersin"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/is-ilanlari/",
+                "rel": "no rel",
+                "desc": "\u0130\u015f \u0130lanlar\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/adliyesi/",
+                "rel": "no rel",
+                "desc": "Adliye"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/havaalani/",
+                "rel": "no rel",
+                "desc": "Havaalan\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/valiligi/",
+                "rel": "no rel",
+                "desc": "Valilik"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/otelleri/",
+                "rel": "no rel",
+                "desc": "Oteller"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/namaz-vakitleri/",
+                "rel": "no rel",
+                "desc": "Namaz Vakitleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ezan-vakitleri/",
+                "rel": "no rel",
+                "desc": "Ezan Vakitleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/marina/",
+                "rel": "no rel",
+                "desc": "Marina"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/idman-yurdu/",
+                "rel": "no rel",
+                "desc": "\u0130dman Yurdu"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/kuyumcular/",
+                "rel": "no rel",
+                "desc": "Kuyumcular"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/adana-tren-saatleri/",
+                "rel": "no rel",
+                "desc": "Mersin adana tren saatleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/barosu/",
+                "rel": "no rel",
+                "desc": "Baro"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/forum/",
+                "rel": "no rel",
+                "desc": "Forum Mersin"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/avukatlik/",
+                "rel": "no rel",
+                "desc": "Mersin Avukatl\u0131k"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/",
+                "rel": "no rel",
+                "desc": "\u0130l\u00e7eler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/erdemli/",
+                "rel": "no rel",
+                "desc": "Erdemli"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/aydincik/",
+                "rel": "no rel",
+                "desc": "Ayd\u0131nc\u0131k"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/yenisehir/",
+                "rel": "no rel",
+                "desc": "Yeni\u015fehir"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/toroslar/",
+                "rel": "no rel",
+                "desc": "Toroslar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/tarsus/",
+                "rel": "no rel",
+                "desc": "Tarsus"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/silifke/",
+                "rel": "no rel",
+                "desc": "Silifke"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/akdeniz/",
+                "rel": "no rel",
+                "desc": "Akdeniz"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/anamur/",
+                "rel": "no rel",
+                "desc": "Anamur"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/bozyazi/",
+                "rel": "no rel",
+                "desc": "Bozyaz\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/camliyayla/",
+                "rel": "no rel",
+                "desc": "\u00c7aml\u0131yayla"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/mut/",
+                "rel": "no rel",
+                "desc": "Mut"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/mezitli/",
+                "rel": "no rel",
+                "desc": "Mezitli"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/gulnar/",
+                "rel": "no rel",
+                "desc": "G\u00fclnar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/",
+                "rel": "no rel",
+                "desc": "Gezilecek Yerler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/adam-kayalar/",
+                "rel": "no rel",
+                "desc": "Adam Kayalar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/anamur-antik-kent/",
+                "rel": "no rel",
+                "desc": "Anamur Antik Kent"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/aynaligol-magarasi/",
+                "rel": "no rel",
+                "desc": "Aynal\u0131g\u00f6l Ma\u011faras\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/cennet-cehennem/",
+                "rel": "no rel",
+                "desc": "Cennet Cehennem"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/goksu-deltasi/",
+                "rel": "no rel",
+                "desc": "G\u00f6ksu Deltas\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/kleopatra-kapisi/",
+                "rel": "no rel",
+                "desc": "Kleopatra Kap\u0131s\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/mamure-kalesi/",
+                "rel": "no rel",
+                "desc": "Mamure Kalesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/aya-tekla-kilisesi/",
+                "rel": "no rel",
+                "desc": "Aya Tekla Kilisesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/yumuktepe/",
+                "rel": "no rel",
+                "desc": "Yumuktepe"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/tarsus-ulu-cami/",
+                "rel": "no rel",
+                "desc": "Tarsus Ulu Cami"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/tarsus-selalesi/",
+                "rel": "no rel",
+                "desc": "Tarsus \u015felalesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/tarsus-muzesi/",
+                "rel": "no rel",
+                "desc": "Tarsus M\u00fczesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/tarihi-tarsus-evleri/",
+                "rel": "no rel",
+                "desc": "Tarihi Tarsus Evleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/soli-pompeiopolis-antik-kent/",
+                "rel": "no rel",
+                "desc": "Soli Pompeiopolis Antik Kent"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/refah-sehitleri-aniti/",
+                "rel": "no rel",
+                "desc": "Refah \u015eehitleri An\u0131t\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/kiz-kalesi/",
+                "rel": "no rel",
+                "desc": "K\u0131z Kalesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/ataturk-evi-muzesi/",
+                "rel": "no rel",
+                "desc": "Mersin Atat\u00fcrk Evi M\u00fczesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/arkeoloji-muzesi/",
+                "rel": "no rel",
+                "desc": "Mersin Arkeoloji M\u00fczesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/sahmeran-hamami/",
+                "rel": "no rel",
+                "desc": "\u015eahmeran Hamam\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/",
+                "rel": "no rel",
+                "desc": "Hava Durumu"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/akdeniz/",
+                "rel": "no rel",
+                "desc": "Akdeniz"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/anamur/",
+                "rel": "no rel",
+                "desc": "Anamur"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/aydincik/",
+                "rel": "no rel",
+                "desc": "Ayd\u0131nc\u0131k"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/bozyazi/",
+                "rel": "no rel",
+                "desc": "Bozyaz\u0131"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/camliyayla/",
+                "rel": "no rel",
+                "desc": "\u00c7aml\u0131yayla"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/erdemli/",
+                "rel": "no rel",
+                "desc": "Erdemli"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/gulnar/",
+                "rel": "no rel",
+                "desc": "G\u00fclnar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/mezitli/",
+                "rel": "no rel",
+                "desc": "Mezitli"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/mut/",
+                "rel": "no rel",
+                "desc": "Mut"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/silifke/",
+                "rel": "no rel",
+                "desc": "Silifke"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/tarsus/",
+                "rel": "no rel",
+                "desc": "Tarsus"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/toroslar/",
+                "rel": "no rel",
+                "desc": "Toroslar"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/yenisehir/",
+                "rel": "no rel",
+                "desc": "Yeni\u015fehir"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/universiteleri/",
+                "rel": "no rel",
+                "desc": "\u00dcniversiteler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/universiteleri/mersin-universitesi/",
+                "rel": "no rel",
+                "desc": "Mersin \u00fcniversitesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hastaneleri/",
+                "rel": "no rel",
+                "desc": "Hastaneler"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hastaneleri/universitesi-hastanesi/",
+                "rel": "no rel",
+                "desc": "Mersin \u00fcniversitesi hastanesi"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hastaneleri/sehir-hastanesi/",
+                "rel": "no rel",
+                "desc": "Mersin \u015fehir hastanesi"
+            },
+            {
+                "link": "#",
+                "rel": "no rel",
+                "desc": ""
+            },
+            {
+                "link": "#",
+                "rel": "no rel",
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/",
+                "rel": "no rel",
+                "desc": "Ana Sayfa"
+            },
+            {
+                "link": "https://www.facebook.com/sharer/sharer.php?u=http://www.mersinsensin.com/iletisim/&display=popup&ref=plugin&src=share_button",
+                "rel": [
+                    "nofollow",
+                    "noopener",
+                    "noreferrer"
+                ],
+                "desc": "Facebook0"
+            },
+            {
+                "link": "https://twitter.com/share?url=http://www.mersinsensin.com/iletisim/&text=%C4%B0leti%C5%9Fim",
+                "rel": [
+                    "nofollow",
+                    "noopener",
+                    "noreferrer"
+                ],
+                "desc": "Tweet0"
+            },
+            {
+                "link": "https://pinterest.com/pin/create/button/?url=http://www.mersinsensin.com/iletisim/&media=&description=\u0130leti\u015fim",
+                "rel": [
+                    "nofollow",
+                    "noopener",
+                    "noreferrer"
+                ],
+                "desc": "Pin0"
+            },
+            {
+                "link": "https://www.facebook.com/sharer/sharer.php?u=http://www.mersinsensin.com/iletisim/&display=popup&ref=plugin&src=share_button",
+                "rel": [
+                    "nofollow",
+                    "noopener",
+                    "noreferrer"
+                ],
+                "desc": "Facebook0"
+            },
+            {
+                "link": "https://twitter.com/share?url=http://www.mersinsensin.com/iletisim/&text=%C4%B0leti%C5%9Fim",
+                "rel": [
+                    "nofollow",
+                    "noopener",
+                    "noreferrer"
+                ],
+                "desc": "Tweet0"
+            },
+            {
+                "link": "https://pinterest.com/pin/create/button/?url=http://www.mersinsensin.com/iletisim/&media=&description=\u0130leti\u015fim",
+                "rel": [
+                    "nofollow",
+                    "noopener",
+                    "noreferrer"
+                ],
+                "desc": "Pin0"
+            },
+            {
+                "link": "https://www.binance.com/en/register?ref=GZJDQQQ6",
+                "rel": "no rel",
+                "desc": ""
+            },
+            {
+                "link": "https://facebook.com/mersinsensincom",
+                "rel": "no rel",
+                "desc": "\nfacebook\n"
+            },
+            {
+                "link": "https://twitter.com/mersinsensincom",
+                "rel": "no rel",
+                "desc": "\ntwitter\n"
+            },
+            {
+                "link": "https://instagram.com/mersinsensincom",
+                "rel": "no rel",
+                "desc": "\ninstagram\n"
+            },
+            {
+                "link": "https://tr.pinterest.com/mersinsensin",
+                "rel": "no rel",
+                "desc": "\npinterest\n"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/soli-pompeiopolis-antik-kent/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/soli-pompeiopolis-antik-kent/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Soli Pompeiopolis Antik Kent Kentin En G\u00fczel Simgelerinden Birisidir!"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/toroslar/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/toroslar/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin Toroslar Hava Durumu ve Hava S\u0131cakl\u0131\u011f\u0131 Nas\u0131l De\u011fi\u015fim G\u00f6steriyor?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/ataturk-evi-muzesi/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/ataturk-evi-muzesi/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin Atat\u00fcrk Evi M\u00fczesi Hakk\u0131nda Bilinmeyenler ve T\u00fcm Y\u00f6nleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/camliyayla/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/camliyayla/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin \u00c7aml\u0131yayla tam bir do\u011fa harikas\u0131! Peki bu g\u00fczel il\u00e7ede ne yapmal\u0131?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/forum/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/forum/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin forum avm ma\u011fazalar\u0131 nelerdir \u2013 Foruma nas\u0131l gidilir?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/mezitli/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/mezitli/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin Mezitli \u015fehrin merkezine yak\u0131n ve tarihi olan bir il\u00e7e olarak bilinir!"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/akdeniz/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/ilceleri/akdeniz/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin Akdeniz il\u00e7esinde bulunan tarihi yerler nereler? \u0130l\u00e7enin \u00f6nemli yerleri"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/yenisehir/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/yenisehir/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin Yeni\u015fehir Hava Durumu \u00d6zellikleri Nelerdir? Yeni\u015fehir Nas\u0131l Bir \u0130l\u00e7e"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/valiligi/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/valiligi/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin valili\u011fi nerededir ve nas\u0131l gidilir? Mersin valisi kimdir?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/otelleri/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/otelleri/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin otelleri nelerdir? Fiyatlar bak\u0131m\u0131ndan mersin\u2019deki oteller nas\u0131ld\u0131r?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/gulnar/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/gulnar/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin G\u00fclnar Hava Durumu ve Toprak \u00d6zellikleri Nelerdir? G\u00fclnar Nerede"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/camliyayla/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/camliyayla/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin \u00c7aml\u0131yayla Hava Durumu ve \u0130klimi Hakk\u0131nda Neler Biliyoruz?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/bozyazi/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/bozyazi/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin Bozyaz\u0131 Hava Durumu ve \u0130klimi \u0130le \u0130lgili Olarak Ne S\u00f6yleyenbilir?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/cennet-cehennem/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/gezilecek-yerler/cennet-cehennem/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Cennet Cehennem Mersin\u2019in En Sevilen G\u00f6r\u00fclmesi Gereken Yerlerinden!"
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/silifke/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": ""
+            },
+            {
+                "link": "http://www.mersinsensin.com/mersin/hava-durumu/silifke/",
+                "rel": [
+                    "bookmark"
+                ],
+                "desc": "Mersin Silifke Hava Durumu ve \u0130klimi Y\u0131l Boyu Nas\u0131l De\u011fi\u015fiklik G\u00f6steriyor?"
+            },
+            {
+                "link": "http://www.mersinsensin.com/iletisim/",
+                "rel": "no rel",
+                "desc": "\u0130leti\u015fim"
+            },
+            {
+                "link": "//www.dmca.com/Protection/Status.aspx?id=c60c022e-ad61-4050-b4ae-e353a3bfb897",
+                "rel": "no rel",
+                "desc": " "
+            }
+        ]
+    }
+]
